@@ -59,7 +59,7 @@ Advanced web-based simulation of a 6-stand cold rolling mill for electrical stee
 
 ### Access Online
 Simply visit the live demo - no installation required:
-**(https://pjkang2023.github.io/cold-rolling-mill-simulator/)**
+**(https://pjkang2023-hub.github.io/cold-rolling-mill-simulator/)**
 
 ### Run Locally
 1. Download `index.html`
