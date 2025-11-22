@@ -9,7 +9,7 @@
 
 Advanced web-based simulation of a 6-stand cold rolling mill for electrical steel production. This interactive tool provides real-time physics-based calculations for temperature evolution, tension control, mass flow balance, and stand-by-stand performance analysis.
 
-**🚀 [Launch Simulator →](https://pjkang2023-hub/cold-rolling-mill-simulator/)**
+**🚀 [Launch Simulator →](https://pjkang2023-hub.github.io/cold-rolling-mill-simulator/)**
 
 
 ## ✨ Key Features
@@ -59,7 +59,7 @@ Advanced web-based simulation of a 6-stand cold rolling mill for electrical stee
 
 ### Access Online
 Simply visit the live demo - no installation required:
-**[https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)**
+**[https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/](https://pjkang2023.github.io/cold-rolling-mill-simulator/)**
 
 ### Run Locally
 1. Download `index.html`
